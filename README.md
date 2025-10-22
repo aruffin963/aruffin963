@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Alex Ruffin🔧 **Ingénieur Systèmes & Réseaux** passionné par l'optimisation d'infrastructures et la gestion d'environnements IT  
+# 👋 Salut, je suis Alex Ruffin🔧 **Ingénieur Systèmes & Réseaux**   
 🌐 **Spécialisé** dans l'administration de réseaux complexes et la gestion de serveurs haute disponibilité  
 📊 **Expert** en monitoring et analyse de performances réseau  
 🛠️ **Administrateur** systèmes avec une forte expertise en virtualisation et automatisation  
