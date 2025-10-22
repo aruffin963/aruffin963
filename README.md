@@ -13,14 +13,6 @@
   <img src="https://img.shields.io/badge/🖥️_Setup-Linux_+_Terminal-green?style=for-the-badge" alt="Setup" />
 </div>
 
-<div align="center">
-  
-**📈 Langages les plus utilisés cette semaine :**
-- 🐍 Python (40%) - Scripts d'automatisation
-- 💻 Bash (25%) - Administration système  
-- 🌐 HTML/CSS (20%) - Portfolio web
-- ⚙️ PowerShell (15%) - Gestion Windows
-
 </div>
 
 <p align="center">
