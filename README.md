@@ -111,12 +111,6 @@
 
 ---
 
-## 🔥 Activité Récente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## 🏅 GitHub Trophées
 
@@ -295,12 +289,6 @@
 
 ---
 
-## � Time Tracking
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ## 🎮 Quand je ne code pas...
 
