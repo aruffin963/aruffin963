@@ -21,7 +21,6 @@
 - 🌐 HTML/CSS (20%) - Portfolio web
 - ⚙️ PowerShell (15%) - Gestion Windows
 
-</div>en+Administration+Syst%C3%A8me;Passionn%C3%A9+de+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
