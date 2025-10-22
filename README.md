@@ -4,9 +4,11 @@
 🛠️ **Administrateur** systèmes avec une forte expertise en virtualisation et automatisation  
 💼 **Technicien** en transformation digitale et modernisation d'infrastructuresON !
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8mes+%26+R%C3%A9seaux;Sp%C3%A9cialiste+Infrastructure+IT;Exp## 📊 Time Tracking & Productivité
-
+<div align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8mes+%26+R%C3%A9seaux;Sp%C3%A9cialiste+Infrastructure+IT;Exp## 📊 Time Tracking & Productivité">
+</div>
+ 
+  
 <div align="center">
   <img src="https://img.shields.io/badge/⏰_Heure_préférée-22h--02h-blue?style=for-the-badge" alt="Preferred Time" />
   <img src="https://img.shields.io/badge/☕_Café_quotidien-4_tasses-brown?style=for-the-badge" alt="Daily Coffee" />
