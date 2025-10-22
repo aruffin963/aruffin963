@@ -1,7 +1,27 @@
-# 👋 Salut, je suis Alex Ruffin ADONON !
+# 👋 Salut, je suis Alex Ruffin🔧 **Ingénieur Systèmes & Réseaux** passionné par l'optimisation d'infrastructures et la gestion d'environnements IT  
+🌐 **Spécialisé** dans l'administration de réseaux complexes et la gestion de serveurs haute disponibilité  
+📊 **Expert** en monitoring et analyse de performances réseau  
+🛠️ **Administrateur** systèmes avec une forte expertise en virtualisation et automatisation  
+💼 **Technicien** en transformation digitale et modernisation d'infrastructuresON !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8mes+%26+R%C3%A9seaux;Sp%C3%A9cialiste+Infrastructure+IT;Expert+en+Administration+Syst%C3%A8me;Passionn%C3%A9+de+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8mes+%26+R%C3%A9seaux;Sp%C3%A9cialiste+Infrastructure+IT;Exp## 📊 Time Tracking & Productivité
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⏰_Heure_préférée-22h--02h-blue?style=for-the-badge" alt="Preferred Time" />
+  <img src="https://img.shields.io/badge/☕_Café_quotidien-4_tasses-brown?style=for-the-badge" alt="Daily Coffee" />
+  <img src="https://img.shields.io/badge/🖥️_Setup-Linux_+_Terminal-green?style=for-the-badge" alt="Setup" />
+</div>
+
+<div align="center">
+  
+**📈 Langages les plus utilisés cette semaine :**
+- 🐍 Python (40%) - Scripts d'automatisation
+- 💻 Bash (25%) - Administration système  
+- 🌐 HTML/CSS (20%) - Portfolio web
+- ⚙️ PowerShell (15%) - Gestion Windows
+
+</div>en+Administration+Syst%C3%A8me;Passionn%C3%A9+de+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,8 +35,8 @@
 
 🔧 **Ingénieur Systèmes & Réseaux** passionné par l'optimisation d'infrastructures et la gestion d'environnements IT  
 🌐 **Spécialisé** dans l'administration de réseaux complexes et la gestion de serveurs haute disponibilité  
-� **Expert** en monitoring et analyse de performances réseau  
-�️ **Administrateur** systèmes avec une forte expertise en virtualisation et automatisation  
+📊 **Expert** en monitoring et analyse de performances réseau  
+🛠️ **Administrateur** systèmes avec une forte expertise en virtualisation et automatisation  
 💼 **Technicien** en transformation digitale et modernisation d'infrastructures
 
 ---
@@ -58,17 +78,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-
-### 💻 Développement
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
----
 
 ## 📈 Statistiques GitHub
 
@@ -117,10 +126,11 @@
 
 ---
 
-## 🎵 Actuellement en train d'écouter
+## 🎵 Musique & Code
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=70a5fd" alt="Spotify Now Playing" />
+  <img src="https://img.shields.io/badge/🎧_Actuellement-Synthwave_&_Lo--fi-purple?style=for-the-badge" alt="Music Style" />
+  <img src="https://img.shields.io/badge/🎵_Plateforme-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </div>
 
 ---
@@ -135,34 +145,12 @@
 
 ## 🔧 Outils du Quotidien
 
-<table align="center">
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-<br>Python
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
 
 ---
 
@@ -184,24 +172,16 @@
 
 ---
 
-## 🐍 Animation de Contribution
+## 🐍 GitHub Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aruffin963/aruffin963/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aruffin963&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffad5a&area=true&hide_border=true" alt="Graphique d'activité détaillé" />
 </div>
 
----
-
-## 💼 Expérience Professionnelle
-
 <div align="center">
-
-| 🏢 Entreprise | 👔 Poste | 📅 Période | 🛠️ Technologies |
-|---------------|-----------|------------|------------------|
-| **TechCorp** | Ingénieur Systèmes Senior | 2023 - Présent | VMware, Cisco, Azure |
-| **NetSolutions** | Administrateur Réseau | 2021 - 2023 | pfSense, VLAN, Wireshark |
-| **DataCenter Pro** | Technicien Systèmes | 2019 - 2021 | Linux, Windows Server |
-
+  <img src="https://img.shields.io/badge/💚_Commits-Quotidiens-green?style=for-the-badge" alt="Daily Commits" />
+  <img src="https://img.shields.io/badge/🔥_Streak-En_cours-orange?style=for-the-badge" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/📈_Croissance-Continue-blue?style=for-the-badge" alt="Growth" />
 </div>
 
 ---
@@ -250,7 +230,7 @@
 <tr>
 <td width="50%">
 
-### � Monitoring & Supervision
+### 📊 Monitoring & Supervision
 - Déploiement de solutions Nagios et Zabbix
 - Analyse de performances et métriques système
 - Mise en place d'alertes et notifications
@@ -324,20 +304,16 @@
 
 ## 🎮 Quand je ne code pas...
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🎯-Tir_à_l'arc-success?style=flat-square" alt="Archery" /><br>
-<img src="https://img.shields.io/badge/📚-Lecture_Tech-blue?style=flat-square" alt="Tech Reading" /><br>
-<img src="https://img.shields.io/badge/🏃‍♂️-Running-red?style=flat-square" alt="Running" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🎸-Guitare-purple?style=flat-square" alt="Guitar" /><br>
-<img src="https://img.shields.io/badge/🌱-Jardinage-green?style=flat-square" alt="Gardening" /><br>
-<img src="https://img.shields.io/badge/🎬-Films_Sci--Fi-orange?style=flat-square" alt="Sci-Fi Movies" />
-</td>
-</tr>
-</table>
+<div align="center">
+  
+🎯 **Tir à l'arc** - Précision et concentration  
+📚 **Lecture tech** - Veille technologique constante  
+🏃‍♂️ **Running** - 5km trois fois par semaine  
+🎸 **Guitare** - Morceaux de rock et blues  
+🌱 **Jardinage** - Tomates et herbes aromatiques  
+🎬 **Films Sci-Fi** - Blade Runner, Matrix, Interstellar  
+
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
