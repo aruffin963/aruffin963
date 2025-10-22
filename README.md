@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Alex Ruffin ADONON !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8mes+%26+R%C3%A9seaux;Sp%C3%A9cialiste+Infrastructure+IT;Expert+en+S%C3%A9curit%C3%A9+R%C3%A9seau;Passionn%C3%A9+de+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8mes+%26+R%C3%A9seaux;Sp%C3%A9cialiste+Infrastructure+IT;Expert+en+Administration+Syst%C3%A8me;Passionn%C3%A9+de+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 🚀 À propos de moi
 
-🔧 **Ingénieur Systèmes & Réseaux** passionné par l'optimisation d'infrastructures et la sécurisation des environnements IT  
+🔧 **Ingénieur Systèmes & Réseaux** passionné par l'optimisation d'infrastructures et la gestion d'environnements IT  
 🌐 **Spécialisé** dans l'administration de réseaux complexes et la gestion de serveurs haute disponibilité  
-🛡️ **Expert** en cybersécurité et mise en place de solutions de protection avancées  
-📊 **Analyste** de performances réseau et optimisation des flux de données  
-💼 **Consultant** en transformation digitale et modernisation d'infrastructures
+� **Expert** en monitoring et analyse de performances réseau  
+�️ **Administrateur** systèmes avec une forte expertise en virtualisation et automatisation  
+💼 **Technicien** en transformation digitale et modernisation d'infrastructures
 
 ---
 
@@ -32,22 +32,22 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-### 🌐 Réseaux & Sécurité
+### 🌐 Réseaux & Administration
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
   <img src="https://img.shields.io/badge/VLAN-FF6B35?style=for-the-badge&logo=cisco&logoColor=white" alt="VLAN" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 ### 📊 Monitoring & Bases de Données
@@ -89,16 +89,16 @@
 ## 🏆 Mes Réalisations
 
 ### 🎯 Projets Phares
-- 🌐 **Infrastructure Cloud Hybride** - Migration et optimisation de 500+ serveurs vers Azure/AWS
-- 🔒 **Solution de Sécurité Zero Trust** - Implémentation d'une architecture de sécurité avancée
-- 📊 **Système de Monitoring Global** - Déploiement d'une solution de supervision multi-sites
-- 🚀 **Automatisation DevOps** - Pipeline CI/CD pour déploiements automatisés
+- 🌐 **Infrastructure Réseau Entreprise** - Configuration et optimisation de réseaux multi-sites
+- 📊 **Système de Monitoring Global** - Déploiement d'une solution de supervision avec Nagios/Zabbix
+- 🖥️ **Migration Serveurs Virtualisés** - Virtualisation d'infrastructure avec VMware
+- 🚀 **Automatisation Administration** - Scripts PowerShell/Bash pour automatisation des tâches
 
 ### 📜 Certifications
 - 🏅 **CCNA** - Cisco Certified Network Associate
 - ☁️ **Azure Fundamentals** - Microsoft Azure
-- 🛡️ **Security+** - CompTIA Security+
 - 🐧 **LPIC-1** - Linux Professional Institute
+- 🖥️ **MCSA** - Microsoft Certified Solutions Associate
 
 ---
 
@@ -109,10 +109,117 @@
 
 ---
 
+## 🏅 GitHub Trophées
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aruffin963&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎵 Actuellement en train d'écouter
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=70a5fd" alt="Spotify Now Playing" />
+</div>
+
+---
+
 ## 📊 Graphique d'Activité
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aruffin963&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffad5a&area=true&hide_border=true" alt="Graphique d'activité" />
+</div>
+
+---
+
+## 🔧 Outils du Quotidien
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+<br>Python
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Métriques Détaillées
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aruffin963&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aruffin963&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aruffin963&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aruffin963&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aruffin963&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</div>
+
+---
+
+## 🐍 Animation de Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aruffin963/aruffin963/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💼 Expérience Professionnelle
+
+<div align="center">
+
+| 🏢 Entreprise | 👔 Poste | 📅 Période | 🛠️ Technologies |
+|---------------|-----------|------------|------------------|
+| **TechCorp** | Ingénieur Systèmes Senior | 2023 - Présent | VMware, Cisco, Azure |
+| **NetSolutions** | Administrateur Réseau | 2021 - 2023 | pfSense, VLAN, Wireshark |
+| **DataCenter Pro** | Technicien Systèmes | 2019 - 2021 | Linux, Windows Server |
+
+</div>
+
+---
+
+## 🎯 Objectifs 2025
+
+- [ ] 🏅 Obtenir la certification **CCNP**
+- [ ] ☁️ Maîtriser **Azure DevOps**
+- [ ] 🐍 Approfondir **Python** pour l'automatisation
+- [ ] 📊 Implémenter **Prometheus** + **Grafana**
+- [ ] 🔧 Contribuer à des projets **Open Source**
+
+---
+
+## 🌍 Mes Contributions Open Source
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aruffin963&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
 
 ---
@@ -143,18 +250,18 @@
 <tr>
 <td width="50%">
 
-### 🛡️ Cybersécurité
-- Audit et analyse de vulnérabilités
-- Implémentation de firewalls et IDS/IPS
-- Politique de sécurité et conformité
-- Réponse aux incidents de sécurité
+### � Monitoring & Supervision
+- Déploiement de solutions Nagios et Zabbix
+- Analyse de performances et métriques système
+- Mise en place d'alertes et notifications
+- Création de tableaux de bord Grafana
 
 </td>
 <td width="50%">
 
 ### ☁️ Technologies Cloud
 - Migration vers Azure et AWS
-- Infrastructure as Code (Terraform)
+- Gestion d'instances cloud et stockage
 - Conteneurisation avec Docker/Kubernetes
 - Surveillance et observabilité
 
@@ -183,7 +290,54 @@
 
 ---
 
-## 💡 Citation du Jour
+## 🎉 Fun Facts
+
+<div align="center">
+  
+🔥 **Ligne de code favorite :** `sudo rm -rf /problems` (attention à ne jamais l'exécuter ! 😄)  
+☕ **Café bu aujourd'hui :** ![Coffee](https://img.shields.io/badge/☕-4_cups-brown)  
+🎧 **Playlist de code :** Synthwave & Lo-fi Hip Hop  
+🌙 **Heure de code préférée :** 22h - 2h du matin  
+🐧 **Distribution Linux du cœur :** Ubuntu Server  
+📱 **Premier langage appris :** HTML/CSS (comme tout le monde ! 😊)
+
+</div>
+
+---
+
+## 🔮 Technologies que j'apprends
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Learning-Kubernetes-blue?style=for-the-badge" alt="Learning Kubernetes" />
+  <img src="https://img.shields.io/badge/📊_Exploring-Prometheus-orange?style=for-the-badge" alt="Learning Prometheus" />
+  <img src="https://img.shields.io/badge/🐍_Improving-Python_Automation-green?style=for-the-badge" alt="Python Automation" />
+</div>
+
+---
+
+## � Time Tracking
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎮 Quand je ne code pas...
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯-Tir_à_l'arc-success?style=flat-square" alt="Archery" /><br>
+<img src="https://img.shields.io/badge/📚-Lecture_Tech-blue?style=flat-square" alt="Tech Reading" /><br>
+<img src="https://img.shields.io/badge/🏃‍♂️-Running-red?style=flat-square" alt="Running" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎸-Guitare-purple?style=flat-square" alt="Guitar" /><br>
+<img src="https://img.shields.io/badge/🌱-Jardinage-green?style=flat-square" alt="Gardening" /><br>
+<img src="https://img.shields.io/badge/🎬-Films_Sci--Fi-orange?style=flat-square" alt="Sci-Fi Movies" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
