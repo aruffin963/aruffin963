@@ -105,31 +105,6 @@
 ---
 
 
-## 🏅 GitHub Trophées
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aruffin963&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎵 Musique & Code
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🎧_Actuellement-Synthwave_&_Lo--fi-purple?style=for-the-badge" alt="Music Style" />
-  <img src="https://img.shields.io/badge/🎵_Plateforme-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</div>
-
----
-
-## 📊 Graphique d'Activité
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aruffin963&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffad5a&area=true&hide_border=true" alt="Graphique d'activité" />
-</div>
-
----
-
 ## 🔧 Outils du Quotidien
 
 <div align="center">
@@ -209,7 +184,6 @@
 ### 🌐 Architecture Réseau
 - Design et implémentation de topologies complexes
 - Configuration de routeurs et switches Cisco
-- Mise en place de VPN et tunnels sécurisés
 - Optimisation des performances réseau
 
 </td>
@@ -218,10 +192,9 @@
 <td width="50%">
 
 ### 📊 Monitoring & Supervision
-- Déploiement de solutions Nagios et Zabbix
+- Déploiement de solutions Zabbix
 - Analyse de performances et métriques système
 - Mise en place d'alertes et notifications
-- Création de tableaux de bord Grafana
 
 </td>
 <td width="50%">
@@ -283,11 +256,11 @@
 ---
 
 
-## 🎮 Quand je ne code pas...
+## 🎮 Quand je ne bosse pas...
 
 <div align="center">
   
-🎯 **Tir à l'arc** - Précision et concentration  
+🎮 **Jeux vidéos** - Tactique et Construction  
 📚 **Lecture tech** - Veille technologique constante  
 🏃‍♂️ **Running** - 5km trois fois par semaine  
 🎸 **Guitare** - Morceaux de rock et blues  
